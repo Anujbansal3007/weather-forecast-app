@@ -1,0 +1,4 @@
+temperature,humidity,pressure,wind_speed,cloud_cover,month,next_day_temperature,rain
+29,55,1010,8,35,10,28.2,0
+31,68,1005,12,72,7,27.5,1
+24,42,1018,5,15,1,25.1,0
